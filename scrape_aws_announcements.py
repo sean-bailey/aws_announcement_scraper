@@ -19,4 +19,4 @@ with open("AWS_"+year+"_NEW_SERVICES.csv","a") as f:
         f.write("%s\n" % item)
 
 
-print("Done! File: AWS_"+str(year)+"_NEW_SERVICES.csv")
+input("Done! File: AWS_"+str(year)+"_NEW_SERVICES.csv. Hit enter to continue...")
