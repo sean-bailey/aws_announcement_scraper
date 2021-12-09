@@ -7,7 +7,7 @@ Pretty simple. On a linux or Mac environment, simply do
 `python3 scrape_aws_announcements.py`
 
 Follow the prompt (it will ask you for a year) and it will then
-generate a `.csv` file with each row being a new service announcement for that year.
+generate a `.csv` file with each row being a new service announcement for that year, a summarization of that service, and a direct link to that service announcement.
 
 
 Windows Users: You can run the `announcementscraper.exe` to the same effect!
